@@ -27,13 +27,11 @@ Thoughts and Tasks is a web application that allows users to jot down their dail
 
 ## Getting Started
 
-````markdown
 1. Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/thoughts-and-tasks.git
 ```
-````
 
 2. Install dependencies:
 
