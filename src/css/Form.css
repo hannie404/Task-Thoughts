@@ -1,0 +1,24 @@
+/* input[type="date"]::-webkit-calendar-picker-indicator {
+  display: none;
+  margin: 0% !important;
+}
+
+input[type="date"]::-moz-calendar-picker-indicator {
+  display: none;
+  margin: 0% !important;
+}
+
+input[type="date"]::-ms-clear {
+  display: none;
+  margin: 0% !important;
+} */
+
+/* input[type="date"]::-ms-clear {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  padding: 0!important;
+  margin: 0 ;
+  display: none;
+} */

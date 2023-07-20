@@ -1,23 +1,19 @@
-import logo from './logo.svg';
+import Thoughts from './components/Thoughts'
+import Header from './components/Header'
+import Task from './components/Task'
+import Stack from 'react-bootstrap/Stack'
 import './App.css';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <div className="task-container">
+        <Task />
+      </div>
+      <div className="thoughts-container">
+        <Thoughts />
+      </div>
     </div>
   );
 }
