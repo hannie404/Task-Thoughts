@@ -73,6 +73,8 @@ export default function Thoughts() {
     // Clear the form fields
     _dateRef.current.value = '';
     thoughtsRef.current.value = '';
+
+    window.location.reload()
   }
 
 
