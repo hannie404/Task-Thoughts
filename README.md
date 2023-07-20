@@ -1,6 +1,6 @@
 # Thoughts and Tasks App
 
-![Thoughts and Tasks Banner](./src/image/sample.png)
+![Thoughts and Tasks Banner](./src/image/sample2.png)
 
 ## Live Website
 
