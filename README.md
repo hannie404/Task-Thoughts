@@ -4,7 +4,7 @@
 
 ## Live Website
 
-[![Live Website](https://img.shields.io/badge/Click%20Me-Live%20Website-blue?style=for-the-badge)](https://your-live-website-url.com)
+[![Live Website](https://img.shields.io/badge/Click%20Me-Live%20Website-blue?style=for-the-badge)](https://hannie404.github.io/Task-Thoughts/)
 
 ## Description
 
