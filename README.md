@@ -1,10 +1,10 @@
-# Sample
-
-<img src='./src/image/sample.png'>
-
 # Thoughts and Tasks App
 
 ![Thoughts and Tasks Banner](./src/image/sample.png)
+
+## Live Website
+
+[![Live Website](https://img.shields.io/badge/Click%20Me-Live%20Website-blue?style=for-the-badge)](https://your-live-website-url.com)
 
 ## Description
 
@@ -27,7 +27,7 @@ Thoughts and Tasks is a web application that allows users to jot down their dail
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/thoughts-and-tasks.git`
+1. Clone the repository: `git clone https://github.com/hannie404/Task-Thoughts.git`
 2. Install dependencies: `npm install`
 3. Run the app: `npm start`
 
@@ -39,3 +39,34 @@ Thoughts and Tasks is a web application that allows users to jot down their dail
 ## Contributions
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+
+````markdown
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/thoughts-and-tasks.git
+```
+````
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Run the app:
+
+```bash
+npm start
+```
+
+<details>
+  <summary>Click to Copy</summary>
+  
+  ```bash
+  git clone https://github.com/your-username/thoughts-and-tasks.git
+  npm install
+  npm start
+  ```
+</details>
+```
