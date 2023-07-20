@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task-Thoughts.git/static/css/main.df615618.css",
+    "main.js": "/Task-Thoughts.git/static/js/main.a23ab4df.js",
+    "static/js/787.498c0b28.chunk.js": "/Task-Thoughts.git/static/js/787.498c0b28.chunk.js",
+    "index.html": "/Task-Thoughts.git/index.html",
+    "main.df615618.css.map": "/Task-Thoughts.git/static/css/main.df615618.css.map",
+    "main.a23ab4df.js.map": "/Task-Thoughts.git/static/js/main.a23ab4df.js.map",
+    "787.498c0b28.chunk.js.map": "/Task-Thoughts.git/static/js/787.498c0b28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df615618.css",
+    "static/js/main.a23ab4df.js"
+  ]
+}
