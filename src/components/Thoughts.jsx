@@ -120,7 +120,7 @@ export default function Thoughts() {
         localStorage.setItem('thoughtsData', JSON.stringify(updatedThoughtsData));
         setSelectedForms([]);
         setSelectMode(false);
-        window.location.reload()
+        // window.location.reload()
 
         Swal.fire({
           title: 'Deleted!',
